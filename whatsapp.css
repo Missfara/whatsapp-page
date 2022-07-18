@@ -1,0 +1,111 @@
+body{
+ background-color: rgba(0, 0, 0, 0.949);   
+}
+
+.first, .second, .third{
+background-color: rgb(25, 22, 22);
+
+
+}
+
+
+.icon{
+height: 25px;
+width: 25px;
+margin-bottom: 70px;
+stroke:white ;
+margin-top: 10px;
+color: white;
+}
+
+.img{
+width: 7rem;
+height: 7rem;
+border-radius: 50%;
+margin-left: 60px;
+
+}
+
+.go{
+ color: white;  
+  margin-left: 90px;
+}
+
+.goo{
+ color: #fbf9f5; 
+   margin-left: 90px;
+}
+
+.icons{
+    height: 25px;
+    width: 25px;
+    stroke:teal ;
+    margin-top: 10px;
+    margin-left:  62px;
+    color: teal; 
+    margin-bottom: 10px;
+}
+
+.hip{
+display: inline;
+margin-left: 58px;
+}
+
+.op{
+margin-right: -18px;
+}
+
+.gren{
+ color: teal;   
+}
+
+.flex{
+display: flex;
+color: #fbf9f5;
+}
+
+.up{
+margin-left: 400px;
+}
+
+.imgs{
+height: 105px;
+width: 105px;
+border-radius: 10%;
+margin:-20px 0 0 4.5px;
+}
+
+.gry,.odd {
+  color: rgba(181, 175, 195, 0.897);
+   stroke: rgba(181, 175, 189, 0.533);
+}
+
+.left{
+margin-left: 400px;
+}
+
+.flexi{
+display: flex;
+justify-content: space-between;
+}
+
+.icns{
+  height: 20px;
+  width: 20px;
+color: grey;
+stroke: gray;
+}
+.odd{
+margin-right:380px;
+}
+
+.flx{
+  display: flex;
+  gap: 20px;
+  color: #fbf9f5;
+}
+
+.pp{
+ margin-top: -1px; 
+ margin-left: 9px;
+}
